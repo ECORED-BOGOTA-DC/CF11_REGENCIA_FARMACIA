@@ -32,6 +32,7 @@
       .col-lg-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img2.svg', style="width:480px").m-auto
+    p Pruebas
 
 </template>
 
