@@ -1,9 +1,6 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 18%
-    right: 55%
+.banner-principal__row .banner-principal__img
+  animation: float1 3.5s ease-in-out infinite alternate
+  position: relative
 
 @keyframes float1
   0%
@@ -19,6 +16,14 @@
   background-color: #E4DDFA
 .cajon.color-primario:before
   background-color: #7E5EE3
+
+.bloque-texto-a:before
+  left: 35%
+
+.bloque-texto-a.color-secundario
+  background-color: #7E5EE3
+.bloque-texto-a.color-secundario:before
+  background-color: #F6F6F6
 
 .bg
   &-c1
@@ -41,6 +46,47 @@
     background-color: #F6F6F7
     border: 3px dashed #12263F
     border-radius: 15px
+  &-c5
+    background-color: #F6F6F6
+    border-radius: 15px
+    height: auto
+  &-c6
+    position: relative
+    background-color: #F1EEFC
+    border-radius: 15px
+    width: 120%
+    z-index: 1 !important
+    p
+      margin-right: 13%
+    @media screen and ( max-width: $bp-max-lg )
+      width: 100%
+      p
+        margin-right: 0%
+      z-index: 0 !important
+  &-c7
+    position: relative
+    z-index: 2 !important
+    @media screen and ( max-width: $bp-max-lg )
+      z-index: 0 !important
+  &-c8
+    background-image: url(../assets/curso/tema3/img1.svg)
+    background-repeat: no-repeat
+    margin-inline: -3.2rem !important
+  &-c9
+    position: relative
+    background-color: #F1EEFC
+    border-radius: 15px
+    width: 120%
+    right: 23%
+    z-index: 1 !important
+    p
+      margin-left: 13%
+    @media screen and ( max-width: $bp-max-lg )
+      width: 100%
+      p
+        margin-left: 0%
+      z-index: 0 !important
+      right: 0%
 
 .fig
   &-p1

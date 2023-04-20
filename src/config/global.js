@@ -5,12 +5,6 @@ export default {
       'En este componente formativo se abordan los conocimientos de la competencia recibir mercancía según los procedimientos técnicos, referentes a la devolución de productos farmacéuticos, con el fin que los aprendices reconozcan la importancia del procedimiento en garantizar la calidad de los productos y su impacto en la minimización de pérdidas económicas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-    ],
   },
   menuPrincipal: {
     menu: [
@@ -56,12 +50,12 @@ export default {
       },
     ],
     subMenu: [
-      {
+      /*{
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',

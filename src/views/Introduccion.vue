@@ -2,7 +2,6 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-  
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
@@ -25,19 +24,19 @@
                   .row
                     figure.fig-p1
                         img(src='@/assets/curso/intro/img2.svg', style="width:40px")
-                    .col.px-5.pb-4.pt-2.bg-c2.shadow
+                    .col.px-5.pb-4.pt-2.bg-c2.shadow-sm
                       p.mb-0 Garantizar la calidad.
                 .col-8.col-md-5.col-lg-3
                   .row
                     figure.fig-p1
                         img(src='@/assets/curso/intro/img3.svg', style="width:40px")
-                    .col.px-5.pb-4.pt-2.bg-c2.shadow
+                    .col.px-5.pb-4.pt-2.bg-c2.shadow-sm
                       p.mb-0 Minimizar las pérdidas económicas.
                 .col-8.col-md-5.col-lg-3
                   .row
                     figure.fig-p1
                         img(src='@/assets/curso/intro/img4.svg', style="width:40px")
-                    .col.px-5.pb-4.pt-2.bg-c2.shadow
+                    .col.px-5.pb-4.pt-2.bg-c2.shadow-sm
                       p.mb-0 Evitar controversias entre cliente y proveedor.
     
 </template>
