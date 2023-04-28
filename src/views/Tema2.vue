@@ -36,9 +36,9 @@
         figure
           img(src='@/assets/curso/tema2/img3.svg', style="width:420px").m-auto
       .col-lg-7.mb-5.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
-        p Para el caso Devolución de medicamentos por parte del paciente a la farmacia, #[b la Ley 29/2006 del artículo 2.6 de la Ley de Garantías y Uso Racional de los Medicamentos], prohíbe la dispensación, por parte del farmacéutico, de cualquier medicamento que haya sido dispensado previamente a otro paciente y haya sido devuelto por él. Esto se da porque a partir del momento que es dispensado el medicamento, no hay forma de garantizar que este mantenga su calidad de conservación.
+        p Para el caso #[b Devolución de medicamentos por parte del paciente a la farmacia, la Ley 29/2006 del artículo 2.6 de la Ley de Garantías y Uso Racional de los Medicamentos], prohíbe la dispensación, por parte del farmacéutico, de cualquier medicamento que haya sido dispensado previamente a otro paciente y haya sido devuelto por él. Esto se da porque a partir del momento que es dispensado el medicamento, no hay forma de garantizar que este mantenga su calidad de conservación.
         .cajon.color-primario.p-4
-          p.mb-0 En este orden de ideas, las farmacias tienen prohibido recibir devolución de pacientes y/o usuarios en cualquiera de los casos, excepto:
+          p.mb-0 En este orden de ideas, las farmacias tienen prohibido recibir devolución de pacientes o usuarios en cualquiera de los casos, excepto:
         .row.justify-content-center
           .col-11
             .row
@@ -63,7 +63,7 @@
           .col-lg
             .bg-c7
               figure
-                img(src='@/assets/curso/tema2/img2.png', style="width:240px").m-auto
+                img(src='@/assets/curso/tema2/img2.png', style="width:220px").m-auto
 
 </template>
 

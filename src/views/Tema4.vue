@@ -16,14 +16,14 @@
           img(src='@/assets/curso/tema4/img1.svg', style="width:380px").m-auto
     .row.justify-content-center
       .col-lg-10
-        .bloque-texto-a.color-secundario.p-4(data-aos="fade-right")
+        .bloque-texto-a.color-primario.p-4(data-aos="fade-right")
           .row.m-0.align-items-center.justify-content-between
             .col-lg-3.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/tema4/img2.svg', style="width:300px").m-auto
             .col-lg-9
               .bloque-texto-a__texto.p-4
-                p Las devoluciones por próximos vencimientos, se registran en el formato entregado por el proveedor de dicho producto. La siguiente figura 1 es un ejemplo de un formato de registro de devoluciones.
+                p Los formatos elaborados en el momento de la devolución, deben estar firmados no solo por la persona que recoge, sino también por la que entrega; esto con el fin que tanto el proveedor como el cliente, puedan realizar trazabilidad al producto en devolución y además, sirva como soporte en caso tal que se presenten confusiones.
 
 </template>
 

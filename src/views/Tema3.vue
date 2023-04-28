@@ -59,7 +59,7 @@
                 .col-lg.mb-4.mb-lg-0
                   .bg-c7
                     figure
-                      img(src='@/assets/curso/tema3/img1.png', style="width:240px").m-auto
+                      img(src='@/assets/curso/tema3/img1.png', style="width:auto").m-auto
                 .col-lg-9
                   .bg-c9
                     .p-4
