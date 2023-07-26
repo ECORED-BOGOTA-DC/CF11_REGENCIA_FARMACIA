@@ -16,7 +16,7 @@
           img(src='@/assets/curso/tema4/img1.svg', style="width:380px").m-auto
     .row.justify-content-center
       .col-lg-10
-        .bloque-texto-a.color-primario.p-4(data-aos="fade-right")
+        .bloque-texto-a.color-secundario.p-4(data-aos="fade-right")
           .row.m-0.align-items-center.justify-content-between
             .col-lg-3.mb-4.mb-lg-0
               figure

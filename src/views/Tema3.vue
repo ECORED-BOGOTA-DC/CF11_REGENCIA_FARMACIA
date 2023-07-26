@@ -42,7 +42,7 @@
                   | Causa de la devolución.
           .row.justify-content-center
             .col-lg-10
-              .bloque-texto-a.color-secundario.p-4.mb-5(data-aos="fade-right")
+              .bloque-texto-a.color-primario.p-4.mb-5(data-aos="fade-right")
                 .row.m-0.align-items-center.justify-content-between
                   .col-lg-9.mb-4.mb-lg-0
                     .bloque-texto-a__texto.p-4
