@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="mapa conceptual que resume los temas tratados dentro del componente formativo denominado: Devolución de productos farmacéuticos, donde se abordó el procedimiento que debe llevar a cabo para estas devoluciones, los registros y formatos a utilizar y los métodos de control de los productos farmacéuticos.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

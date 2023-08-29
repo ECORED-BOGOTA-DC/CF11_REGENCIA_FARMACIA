@@ -53,7 +53,7 @@
               .titulo-sexto.color-secundario(data-aos="fade-up")
                 p.mb-0 #[b Figura 1]. Ejemplo reporte de devolución
               figure.mb-5(data-aos="fade-left")
-                img(src='@/assets/curso/tema3/img4.svg').m-auto
+                img(src='@/assets/curso/tema3/img4.svg' alt="Figura 1. que muestra el formato de un reporte de devolución.").m-auto
                 figcaption.mt-3 Nota. SENA (2021).
               .row.align-items-center.mb-5(data-aos="fade-rigth")
                 .col-lg.mb-4.mb-lg-0
@@ -67,7 +67,7 @@
               .titulo-sexto.color-secundario(data-aos="fade-down")
                 p.mb-0 #[b Figura 2]. Ejemplo formato registro de devoluciones intrahospitalarias
               figure(data-aos="fade-left")
-                img(src='@/assets/curso/tema3/img5.svg').m-auto
+                img(src='@/assets/curso/tema3/img5.svg' alt="Figura 2. Formato que muestra la estructura de un formato de registro de devolución de medicamento al interior de un hospital.").m-auto
                 figcaption.mt-3 Nota. SENA (2021).
 
 </template>
