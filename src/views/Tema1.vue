@@ -9,7 +9,7 @@
     p.mb-4(data-aos="fade-right") Para aprender y entender sobre una devolución de productos farmacéuticos, se invita a ver el siguiente video.
     figure(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/eVd371BkmTw?si=U86d6xe3KZUPRj-b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 </template>
 
