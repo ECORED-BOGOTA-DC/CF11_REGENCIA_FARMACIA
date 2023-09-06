@@ -63,7 +63,7 @@
           .col-lg
             .bg-c7
               figure
-                img(src='@/assets/curso/tema2/img2.png', style="width:220px").m-auto
+                img(src='@/assets/curso/tema2/img2.png', style="width:320px").m-auto
 
 </template>
 
