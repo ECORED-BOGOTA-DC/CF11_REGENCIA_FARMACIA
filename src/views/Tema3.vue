@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Registros y formatos
-    .row.bg-c8.mb-5
+    .row.bg-c8
       .col-12
         .px-5
           p.mt-4(data-aos="fade-down") Cuando se recibe devolución de un producto durante los procesos de recepción y distribución intrahospitalaria, se deben llevar registros que, como mínimo, incluyan la siguiente información:
